@@ -1,3 +1,3 @@
 # Java
 
-In this repository for learning basics of JAVA. 
+This repository for learning basics of JAVA. 
