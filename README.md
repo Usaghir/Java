@@ -4,7 +4,7 @@ Welcome learn the object oriented programming with JAVA by following the book St
 
 In this repository you will find:
 
-* Solution to the programming challenges of some of the chapters in this book (not all). 
+* Solution to the some programming challenges (chapters 1 to 7) in this book (not all). 
 * Some small projects based on the learning outcome from this book. 
 
 Note: Every one is welcome to contribute to this repository to solve the programming challenges or edit existing challenges with improved code. or want to add some relevant projects.  
