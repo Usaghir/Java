@@ -1,6 +1,6 @@
 # Object-oriented programming with Java
 
-Welcome to the repository to learn the object oriented programming with JAVA by following the book "Starting Out with Java From Control Struct", 6th Ed, Tony Gaddis, 2015 (or any relevant). 
+Welcome to the repository to learn the object oriented programming with JAVA by following the book "Starting Out with Java From Control Structures through Objects", 6th Ed, Tony Gaddis, 2015. 
 
 In this repository you will find:
 
